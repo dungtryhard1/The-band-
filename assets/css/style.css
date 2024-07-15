@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+@import url(img/chicago.jpg);
 html {
     font-family: Arial, Helvetica, sans-serif;
     scroll-behavior: smooth;
@@ -173,7 +173,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('./img/chicago.jpg') top center / cover no-repeat;
+    background: url(img/chicago.jpg) top center / cover no-repeat;
 
 }
 
